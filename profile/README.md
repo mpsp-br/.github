@@ -1,4 +1,4 @@
-## Hi there 👋
+A _org_ do GitHub **MPSP** não é oficial.
 
 <!--
 
