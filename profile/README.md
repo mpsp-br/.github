@@ -1,4 +1,4 @@
-A _org_ do GitHub **MPSP** não é oficial.
+O Ministério Público é uma instituição pública autônoma, a quem a Constituição Federal incumbiu de defender a ordem jurídica, o regime democrático e os interesses sociais e individuais indisponíveis.
 
 <!--
 
