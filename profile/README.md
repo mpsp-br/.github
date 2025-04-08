@@ -1,5 +1,13 @@
-O Ministério Público é uma instituição pública autônoma, a quem a Constituição Federal incumbiu de defender a ordem jurídica, o regime democrático e os interesses sociais e individuais indisponíveis.
+O Ministério Público do Estado de São Paulo (MPSP) é uma instituição independente que atua na defesa dos interesses da sociedade e dos direitos coletivos. Sua missão inclui a promoção da justiça, a proteção dos direitos humanos, a fiscalização do cumprimento das leis e a defesa do patrimônio público.
 
+O MPSP está envolvido em diversas áreas, como:
+- Tutela Coletiva e Cível: Atua em questões relacionadas ao meio ambiente, consumidor, saúde pública, entre outros.
+- Criminal: Investiga e processa crimes, buscando a responsabilização dos infratores.
+- Direitos Humanos: Protege os direitos fundamentais dos cidadãos, incluindo questões de gênero, raça e infância.
+
+<br>
+
+Além disso, o MPSP oferece serviços ao cidadão, como atendimento a vítimas, emissão de certidões, consultas de procedimentos e apoio em casos de desaparecidos.
 <!--
 
 **Here are some ideas to get you started:**
